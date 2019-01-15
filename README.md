@@ -1,3 +1,3 @@
 # spring cloudlearn
-##  config、euraka、ribbon、fegin
+##  config、eureka、ribbon、fegin
 ##  
